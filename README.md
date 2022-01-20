@@ -40,7 +40,7 @@ An Example Group with Members:
 
 ## Wireframe
 
-![prototype](https://cdn.discordapp.com/attachments/86483011788353536/933453617212567602/chrome_2022-01-19_15-09-44.gif)
+![prototype](https://cdn.discordapp.com/attachments/907781153665200148/933764213061582888/chrome_2022-01-20_11-45-09.gif)
 
 Alternatively, [view the clickable prototype for yourself](https://xd.adobe.com/view/0749fdd1-7c21-45da-b108-62c7dc18bac2-521a/) (currently in progress)
 
