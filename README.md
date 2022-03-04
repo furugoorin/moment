@@ -7,6 +7,8 @@ Sometimes, we just want to spontaneously meet up with the people we love and hav
 
 "Moment" is a web app tailored for groups of people to list their availability. Users can register and login. Once they're logged in, they can create a group. Users can then add, edit, or delete an entry. The same group can be reused for future planning, so that there is no hassle to recreate or keep track of new events with the same people.
 
+*Note: this was deployed on school's servers — will need to find alternatives for deployment*
+
 ## Data Model
 
 The application will store Users, Groups, and Members.
